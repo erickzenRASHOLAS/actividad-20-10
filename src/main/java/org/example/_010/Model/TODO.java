@@ -1,4 +1,4 @@
-package org.example._010;
+package org.example._010.Model;
 
 import jakarta.persistence.Table;
 import jdk.jfr.DataAmount;
